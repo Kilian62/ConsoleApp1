@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Clerentin le GOAT (ses amphis me manquent deja T_T )");
+Console.WriteLine("Message de bienvenue");
 int sum (int a, int b)
 {
  int sum = a + b;
