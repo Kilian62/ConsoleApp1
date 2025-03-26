@@ -18,12 +18,6 @@ int oppo (int a)
     return res;
 }
 
-int div (int a, int b)
-{
-    int res = (a + b) / 2;
-    return res;
-}
-
 int res = sum(2 ,3);
 Console.WriteLine($"La somme de 2 et 3 est : {res} ");
 
@@ -34,7 +28,3 @@ Console.WriteLine($"It's {testv}");
 int oppov = oppo(-7);
 
 Console.WriteLine($"Le res est inverse de 7 est {oppov}");
-
-int divv = div(10, 4);
-
-Console.WriteLine($"La formule bizzare {divv}");
