@@ -14,8 +14,8 @@ bool test (int a, int b)
 
 int oppo (int a)
 {
-   
-    return -a;
+    int res = a - (2 * a);
+    return res;
 }
 
 int res = sum(2 ,3);
